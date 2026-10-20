@@ -77,6 +77,8 @@ All of this runs in your browser. There's no backend and no database.
 - [ ] Search by dish or keyword (for example, "ramen")
 - [ ] Price level filter
 - [ ] Share a spot with a friend
+- [ ] Log in page
+- [ ] Add pictures with the food places 
 
 ## Credits
 
