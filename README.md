@@ -78,7 +78,8 @@ All of this runs in your browser. There's no backend and no database.
 - [ ] Price level filter
 - [ ] Share a spot with a friend
 - [ ] Log in page
-- [ ] Add pictures with the food places 
+- [ ] Add pictures with the food places
+- [ ] Save data under login and use data to add more features
 
 ## Credits
 
